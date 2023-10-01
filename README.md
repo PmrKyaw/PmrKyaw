@@ -17,8 +17,7 @@ I am a front-end developer who is passionate about user interface and experience
 
 ### Projects:
 
-All of my projects are listed on my personal website with a full detail explanation of each project. The site link is down below.
-
+All of my projects are listed on my personal website with a full detailed explanation of each project. The site link is down below.
 Portfolio webiste: https://pmrkyaw.com/
 
 
