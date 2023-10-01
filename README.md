@@ -1,13 +1,14 @@
 # 💧 Pmr Kyaw
 
 **`Right Understanding 🏹 Simplicity`**
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
+I am a front-end developer who is passionate about user interface and experience. Eager to learn to understand the problem and solve it in the most optimal simple way. The projects that I built are all from scratch, and I strive with my hard work from conception to finished working product.
+
+
 ---
 
-### 🌎 Connect with me:
+### 📡 Connect with me:
 
 [![Linkedin](https://github.com/PmrKyaw/logo/blob/main/linkedin.svg)](https://www.linkedin.com/in/kyaw-htet-7a9bb2237)
 [![Github](https://github.com/PmrKyaw/logo/blob/main/github.svg)](https://github.com/PmrKyaw)
