@@ -14,27 +14,12 @@ I am a front-end developer who is passionate about user interface and experience
 [![Github](https://github.com/PmrKyaw/logo/blob/main/github.svg)](https://github.com/PmrKyaw)
 [![Youtube](https://github.com/PmrKyaw/logo/blob/main/youtube.svg)](https://www.youtube.com/@kyawpmr6862/featured)
 #
-----
 
-<table>
-  <tr>
-    <td valign="top">
-        <img src="https://blog-backend-kyaw.s3.eu-west-2.amazonaws.com/orito-pres.jpg"/ height="200px">
-      <p>
-        The Orito is the food-related project that I working on. On the website, the user can find many free recipes. The user can create an account to get access to more features. The website is still in the process of developing. Currently, the login user can give a review to the recipe, add their most like recipe to their favourite....
-      </p>
-    </td>
-   <td valign="top">
-        <img src="https://blog-backend-kyaw.s3.eu-west-2.amazonaws.com/orito-pres.jpg"/ height="200px">
-      <p>
-        The Orito is the food-related project that I working on. On the website, the user can find many free recipes. The user can create an account to get access to more features. The website is still in the process of developing. Currently, the login user can give a review to the recipe, add their most like recipe to their favourite....
-      </p>
-    </td>
-     <td valign="top">
-        <img src="https://blog-backend-kyaw.s3.eu-west-2.amazonaws.com/orito-pres.jpg"/ height="200px">
-      <p>
-        The Orito is the food-related project that I working on. On the website, the user can find many free recipes. The user can create an account to get access to more features. The website is still in the process of developing. Currently, the login user can give a review to the recipe, add their most like recipe to their favourite....
-      </p>
-    </td>
-  </tr>
-</table>
+### Projects:
+
+All of my projects are listed on my personal website with a full detail explanation of each project. The site link is down below.
+
+Portfolio webiste: https://pmrkyaw.com/
+
+
+----
