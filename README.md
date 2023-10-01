@@ -5,5 +5,5 @@
 - 📫 How to reach me ...
 ---
 
-### 🌎 Social
+### 🌎 Other
 #
