@@ -9,7 +9,7 @@
 
 ### 🌎 Connect with me:
 
-[![Linkedin](https://www.linkedin.com/in/kyaw-htet-7a9bb2237)]("[https://www.linkedin.com/in/kyaw-htet-7a9bb2237](https://github.com/PmrKyaw/logo/blob/main/linkedin.svg)")
-[![Sponsor with Github](https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/sponsors/DenverCoder1 "Sponsor me on GitHub")
-[![Buy me a coffee](https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/jlawrence "Buy me a coffee")
+[![Linkedin](https://raw.githubusercontent.com/PmrKyaw/logo/main/linkedin.svg?token=GHSAT0AAAAAACIJM2EXLYU6EUJHHZEYZMRSZIZCB7Q)](https://www.linkedin.com/in/kyaw-htet-7a9bb2237)
+[![Github](https://raw.githubusercontent.com/PmrKyaw/logo/main/github.svg?token=GHSAT0AAAAAACIJM2EWW2BN44FITRUESQZ2ZIZB5YQ)](https://github.com/PmrKyaw)
+[![Youtube](https://raw.githubusercontent.com/PmrKyaw/logo/main/youtube.svg?token=GHSAT0AAAAAACIJM2EWBX5LX2Q7VTRYRRDCZIZCBGA)](https://www.youtube.com/@kyawpmr6862/featured)
 #
