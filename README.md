@@ -33,5 +33,6 @@ Portfolio webiste: https://pmrkyaw.com/
 
 
 <details>
- <summary><h3>About Me</h3></summary>
- I am a Frontend developer by profession. An individual who is enthusiastic about design in every look. A strong knowledge, understanding, and experience with implementing the design of user-ready websites. Looking toward seeking opportunities to collaborate and work in a good organizational environment to excel in my career growth.
+ <summary><h3>CARREA OBJECTIVE</h3></summary>
+ With my dynamic professional qualities, my goal is to apply my enthusiasm for creating intuitive and visually appealing websites to contribute positively to a dynamic team. I excel in problem-solving, organization, and analysis, to help develop user-friendly interfaces that enhance the overall user experience. Dedicated to continuous learning and growth in the field of front-end development, with a focus on mastering modern frameworks and best practices to deliver high-quality solutions. My passion for front-end development drives me to continuously learn and grow to deliver high-quality solutions that meet both user needs and business objectives.![image](https://github.com/PmrKyaw/PmrKyaw/assets/100857567/8980d9d3-9a7e-4b39-bb44-9d8663501650)
+
