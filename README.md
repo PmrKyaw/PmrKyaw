@@ -1,4 +1,4 @@
-# 💧 Pmr Kyaw
+# 💧 Kyaw
 
 **`Right Understanding 🏹 Simplicity`**
 
